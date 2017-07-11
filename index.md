@@ -1,54 +1,56 @@
-### Булат Хусаинов, верстка / фронтенд
+## Булат Хусаинов (Javascript Developer)
 
-Навыки и технологии:  
-- html5 / css3
-- препроцессоры: less / sass
-- адаптивный / отзывчивый дизайн
-- javascript, jquery
-- автоматизация: grunt.js
-- контроль версий, хостинг: git / github
-- сторонник подхода "Прогрессивного улучшения" (progressive enhancement)
-- владею фотошопом на уровне верстальщика
+Занимаюсь фронтендом с января 2015 года.  
+До этого занимался фулл-стек разработкой на платформе asp.net mvc.
+
+### Навыки и умения
+
+Стек технологий:
+- Основательный Javascript и его современные возможности
+- frontend: 
+    - frameworks: react, redux, react-router (до этого были angular 1.x, jquery)
+    - build tools: базовый webpack, до этого были gulp и grunt
+    - html5/css3
+    - responsive web design
+    - preprocessors: less
+    - low level manipulations via DOM API
+- backend:
+    - node.js
+    - express.js (koa.js в планах)
+    - mongo.db via node-driver (mongoose в планах)	
+- version control: git
+
+Другие навыки:
+- тестирование
+    - юнит-тесты
+    - функциональные тесты (e2e) с помощью Protractor
+- традиционные ценности:
+	- алгоритмы и структуры данных
+	- паттерны проектирования
 - английский на уровне upper intermediate
 
-Занимаюсь версткой с января 2015 года.  
-В качестве бэкграунда - 3 года веб-разработки на платформе asp.net mvc (full stack developer).  
 
 ### Проекты
-Верстка тестировалась на десктопе (win 7) в браузерах chrome, firefox, ie 11.  
+
 Список проектов по хронологии, сверху самые свежие и актуальные:  
 
-- timeline-portfolio - персональный сайт-портфолио с адаптивной версткой  
+Примеры отзывчивого дизайна (только верстка):
+
+- sedona (отзывчивый дизайн, оптимизация размера ресурсов)
+    демо: http://gizzz.github.io/sedona/  
+    исходники: https://github.com/Gizzz/portfolio-timeline/tree/gh-pages  
+
+- timeline-portfolio - сайт-портфолио с отзывчивым дизайном  
     демо: http://gizzz.github.io/portfolio-timeline/  
     исходники: https://github.com/Gizzz/portfolio-timeline/tree/gh-pages  
 
-- technomart - магазин товаров для ремонта и стройки  
-    демо: http://gizzz.github.io/technomart/  
-    исходники: https://github.com/Gizzz/technomart/tree/gh-pages  
+### что планирую изучать в ближайшее время
+- webpack (в глубину)
+- тестирование в React: unit testing, e2e
+- functional programming in js
+- RxJs, Observables
 
-- nerds - лендинг дизайн-студии  
-    демо: http://gizzz.github.io/nerds/  
-    исходники: https://github.com/Gizzz/nerds/tree/gh-pages  
-
-- corporate-blue - корпоративный сайт / блог  
-    демо: http://gizzz.github.io/corporate-blue/  
-    исходники: https://github.com/Gizzz/corporate-blue/tree/gh-pages  
-
-- реплика верстки главной страницы сайта http://theborzoi.ru/  
-    демо: http://gizzz.github.io/borzoi-site-markup-replica/  
-    исходники: https://github.com/Gizzz/borzoi-site-markup-replica/tree/gh-pages  
-
-- barbershop borodinski - магазин товаров для бритья  
-    демо: http://gizzz.github.io/barbershop/  
-    исходники: https://github.com/Gizzz/barbershop/tree/gh-pages  
-
-### Интересы в индустрии / что планирую изучить  
-- фреймворки: bootstrap / foundation
-- методологии верстки (BEM)
-- js: углубить текущие знания; изучить один из mvc фреймворков (ember.js)
-- material design
 
 ### Контакты
 - почта - bulatkhusainov@yandex.ru
-- вконтакте - https://vk.com/guy_husein
-- скайп - bulatkhusainov
+- мой круг - https://moikrug.ru/husainovbulat
