@@ -36,9 +36,9 @@
 
 Примеры отзывчивого дизайна (только верстка):
 
-- sedona (отзывчивый дизайн, оптимизация размера ресурсов)
-    демо: http://gizzz.github.io/sedona/  
-    исходники: https://github.com/Gizzz/portfolio-timeline/tree/gh-pages  
+- sedona (отзывчивый дизайн, оптимизация размера ресурсов)  
+	демо: http://gizzz.github.io/sedona/prod/  
+	исходники: https://github.com/Gizzz/sedona  
 
 - timeline-portfolio - сайт-портфолио с отзывчивым дизайном  
     демо: http://gizzz.github.io/portfolio-timeline/  
