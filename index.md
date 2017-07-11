@@ -1,7 +1,9 @@
 ## Булат Хусаинов (Javascript Developer)
 
 Занимаюсь фронтендом с января 2015 года.  
-До этого занимался фулл-стек разработкой на платформе asp.net mvc.
+До этого занимался фулл-стек разработкой на платформе asp.net mvc.  
+Вдохновляюсь веб технологиями, их стремительным развитием. Очень нравится состояние веба и Javascript на сегодня. 
+Помимо веба увлекаюсь симрейсингом и тренировками на свежем воздухе :sunny: )
 
 ### Навыки и умения
 
@@ -58,9 +60,9 @@
     исходники: https://github.com/Gizzz/portfolio-timeline/tree/gh-pages  
 
 ### что планирую изучать в ближайшее время
-- webpack (в глубину)
+- webpack более основательно
 - тестирование в React: unit testing, e2e
-- functional programming in js, flow type system
+- functional programming in js, flow type checker
 - RxJs, Observables
 - http более основательно, присматриваюсь к GraphQL
 
