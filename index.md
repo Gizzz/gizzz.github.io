@@ -39,12 +39,12 @@
 
 - wear shop app - проект в котором пробую изученные вещи. Лучшее что есть на сегодня из реакта. Вдохновлением послужил демо проект команды Polymer.  
 	- демо: https://stark-cliffs-10206.herokuapp.com/  
-	- исходники: https://github.com/Gizzz/ng2-todo_app  
-	
-- приложение TodoMVC на Angular 2 - как способ узнать фреймворк в деле. e2e тесты прилагаются.
-	- демо: https://gizzz.github.io/ng2-todo_app/  
 	- исходники: https://github.com/Gizzz/wear-shop-app  
 	
+	
+- приложение TodoMVC на Angular 2 - как способ узнать фреймворк в деле. e2e тесты прилагаются.
+	- демо: https://gizzz.github.io/ng2-todo_app/  	
+	- исходники: https://github.com/Gizzz/ng2-todo_app  
 
 Примеры отзывчивого дизайна (только верстка):
 
