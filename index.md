@@ -8,13 +8,12 @@
 Список проектов по хронологии, сверху самые свежие и актуальные:  
 
 - wear shop app - проект на React в котором пробую изученные вещи. Вдохновлением послужил демо проект команды Polymer.  
-	- демо: https://stark-cliffs-10206.herokuapp.com/  
-	- исходники: https://github.com/Gizzz/wear-shop-app  
-	
+	- демо: [https://stark-cliffs-10206.herokuapp.com/](https://stark-cliffs-10206.herokuapp.com/)  
+	- исходники: [https://github.com/Gizzz/wear-shop-app](https://github.com/Gizzz/wear-shop-app)  
 	
 - приложение TodoMVC на Angular 2 - как способ узнать фреймворк в деле. e2e тесты прилагаются.
-	- демо: https://gizzz.github.io/ng2-todo_app/  	
-	- исходники: https://github.com/Gizzz/ng2-todo_app  
+	- демо: [https://gizzz.github.io/ng2-todo_app/](https://gizzz.github.io/ng2-todo_app/)  
+	- исходники: [https://github.com/Gizzz/ng2-todo_app](https://github.com/Gizzz/ng2-todo_app)  
 
 Примеры отзывчивого дизайна (только верстка):  
 
