@@ -54,7 +54,7 @@
 	- паттерны проектирования
 - английский на уровне upper intermediate
 
-### что планирую изучать в ближайшее время
+### Что планирую изучать в ближайшее время
 - webpack более основательно
 - тестирование в React: unit testing, e2e
 - functional programming in js, flow type checker
