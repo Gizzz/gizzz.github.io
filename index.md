@@ -8,25 +8,25 @@
 Список проектов по хронологии, сверху самые свежие и актуальные:  
 
 - wear shop app - проект на React в котором пробую изученные вещи. Вдохновлением послужил демо проект команды Polymer.  
-	- демо: [https://stark-cliffs-10206.herokuapp.com/](https://stark-cliffs-10206.herokuapp.com/)  
-	- исходники: [https://github.com/Gizzz/wear-shop-app](https://github.com/Gizzz/wear-shop-app)  
+	- demo:        [https://stark-cliffs-10206.herokuapp.com/](https://stark-cliffs-10206.herokuapp.com/)  
+	- source code: [https://github.com/Gizzz/wear-shop-app](https://github.com/Gizzz/wear-shop-app)  
 	
 - приложение TodoMVC на Angular 2 - как способ узнать фреймворк в деле. e2e тесты прилагаются.
-	- демо: [https://gizzz.github.io/ng2-todo_app/](https://gizzz.github.io/ng2-todo_app/)  
-	- исходники: [https://github.com/Gizzz/ng2-todo_app](https://github.com/Gizzz/ng2-todo_app)  
+	- demo:        [https://gizzz.github.io/ng2-todo_app/](https://gizzz.github.io/ng2-todo_app/)  
+	- source code: [https://github.com/Gizzz/ng2-todo_app](https://github.com/Gizzz/ng2-todo_app)  
 
 Примеры отзывчивого дизайна (только верстка):  
 
 - сайт для medical-x (responsive web design)
-	- демо: [http://medical-x.com/](http://medical-x.com/)
+	- demo:        [http://medical-x.com/](http://medical-x.com/)
 
 - sedona (responsive web design, network performance optimization)  
-	- демо: [http://gizzz.github.io/sedona/prod/](http://gizzz.github.io/sedona/prod/)  
-	- исходники: [https://github.com/Gizzz/sedona](https://github.com/Gizzz/sedona)  
+	- demo:        [http://gizzz.github.io/sedona/prod/](http://gizzz.github.io/sedona/prod/)  
+	- source code: [https://github.com/Gizzz/sedona](https://github.com/Gizzz/sedona)  
 
 - timeline-portfolio (responsive web design, network performance optimization)  
-	- демо: [http://gizzz.github.io/portfolio-timeline/](http://gizzz.github.io/portfolio-timeline/)  
-	- исходники: [https://github.com/Gizzz/portfolio-timeline/tree/gh-pages](https://github.com/Gizzz/portfolio-timeline/tree/gh-pages)  
+	- demo:        [http://gizzz.github.io/portfolio-timeline/](http://gizzz.github.io/portfolio-timeline/)  
+	- source code: [https://github.com/Gizzz/portfolio-timeline/tree/gh-pages](https://github.com/Gizzz/portfolio-timeline/tree/gh-pages)  
     
 ### Навыки и умения
 Стек технологий:
@@ -62,5 +62,5 @@
 - http более основательно, присматриваюсь к GraphQL
 
 ### Контакты
-- почта - [mailto:bulatkhusainov@yandex.ru](mailto:bulatkhusainov@yandex.ru)  
-- мой круг - [https://moikrug.ru/husainovbulat](https://moikrug.ru/husainovbulat)  
+- почта:    [mailto:bulatkhusainov@yandex.ru](mailto:bulatkhusainov@yandex.ru)  
+- мой круг: [https://moikrug.ru/husainovbulat](https://moikrug.ru/husainovbulat)  
