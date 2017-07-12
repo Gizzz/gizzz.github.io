@@ -19,7 +19,7 @@
 Примеры отзывчивого дизайна (только верстка):  
 
 - сайт для medical-x (responsive web design)
-	- демо: (http://medical-x.com/)
+	- демо: [http://medical-x.com/](http://medical-x.com/)
 
 - sedona (responsive web design, network performance optimization)  
 	- демо: http://gizzz.github.io/sedona/prod/  
