@@ -21,12 +21,12 @@
 	- демо: [http://medical-x.com/](http://medical-x.com/)
 
 - sedona (responsive web design, network performance optimization)  
-	- демо: http://gizzz.github.io/sedona/prod/  
-	- исходники: https://github.com/Gizzz/sedona  
+	- демо: [http://gizzz.github.io/sedona/prod/](http://gizzz.github.io/sedona/prod/)  
+	- исходники: [https://github.com/Gizzz/sedona](https://github.com/Gizzz/sedona)  
 
 - timeline-portfolio (responsive web design, network performance optimization)  
-	- демо: http://gizzz.github.io/portfolio-timeline/  
-	- исходники: https://github.com/Gizzz/portfolio-timeline/tree/gh-pages  
+	- демо: [http://gizzz.github.io/portfolio-timeline/](http://gizzz.github.io/portfolio-timeline/)  
+	- исходники: [https://github.com/Gizzz/portfolio-timeline/tree/gh-pages](https://github.com/Gizzz/portfolio-timeline/tree/gh-pages)  
     
 ### Навыки и умения
 Стек технологий:
@@ -62,5 +62,5 @@
 - http более основательно, присматриваюсь к GraphQL
 
 ### Контакты
-- почта - bulatkhusainov@yandex.ru
-- мой круг - https://moikrug.ru/husainovbulat
+- почта - [mailto:bulatkhusainov@yandex.ru](mailto:bulatkhusainov@yandex.ru)  
+- мой круг - [https://moikrug.ru/husainovbulat](https://moikrug.ru/husainovbulat)  
