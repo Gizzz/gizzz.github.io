@@ -47,8 +47,8 @@
 
 Другие навыки:
 - тестирование
-    - юнит-тесты
-    - функциональные тесты (e2e) с помощью Protractor
+	- юнит-тесты
+	- функциональные тесты (e2e) с помощью Protractor
 - традиционные ценности:
 	- алгоритмы и структуры данных
 	- паттерны проектирования
@@ -62,5 +62,5 @@
 - http более основательно, присматриваюсь к GraphQL
 
 ### Контакты
-- почта:    [mailto:bulatkhusainov@yandex.ru](mailto:bulatkhusainov@yandex.ru)  
-- мой круг: [https://moikrug.ru/husainovbulat](https://moikrug.ru/husainovbulat)  
+- почта:    [bulatkhusainov@yandex.ru](mailto:bulatkhusainov@yandex.ru)  
+- мой круг: [husainovbulat](https://moikrug.ru/husainovbulat)  
