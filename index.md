@@ -34,12 +34,12 @@
 	- ES5
 	- ES2017
 - frontend: 
-    - frameworks: react, redux, react-router (до этого были angular 1.x, jquery)
-    - build tools: базовый webpack, до этого были gulp и grunt
+    - frameworks: react, redux, react-router (до этого был angular 1.x)  
+    - build tools: базовый webpack, до этого были gulp и grunt      
+    - DOM manipulation: natively via DOM API, jquery  
     - html5/css3
     - responsive web design
     - preprocessors: less
-    - low level manipulations via DOM API
 - backend:
     - node.js
     - express.js (koa.js в планах)
