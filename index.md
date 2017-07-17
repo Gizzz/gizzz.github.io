@@ -30,7 +30,9 @@
     
 ### Навыки и умения
 Стек технологий:
-- Основательный Javascript и его современные возможности
+- Javascript  
+	- ES5
+	- ES2017
 - frontend: 
     - frameworks: react, redux, react-router (до этого были angular 1.x, jquery)
     - build tools: базовый webpack, до этого были gulp и grunt
