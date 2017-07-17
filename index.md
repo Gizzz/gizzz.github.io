@@ -8,7 +8,7 @@
 Список проектов по хронологии, сверху самые свежие и актуальные:  
 
 - wear shop app - небольшой веб-магазин на React. Вдохновлением послужил демо проект команды Polymer.  
-	- demo:        [https://stark-cliffs-10206.herokuapp.com/](https://stark-cliffs-10206.herokuapp.com/)  
+	- demo:        [https://stark-cliffs-10206.herokuapp.com/](https://stark-cliffs-10206.herokuapp.com/) (caution - cold server startup takes up to 30 sec)
 	- source code: [https://github.com/Gizzz/wear-shop-app](https://github.com/Gizzz/wear-shop-app)  
 	
 - приложение TodoMVC на Angular 2 - как способ узнать фреймворк в деле. e2e тесты прилагаются.
