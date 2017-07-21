@@ -8,7 +8,7 @@
 Список проектов по хронологии, сверху самые свежие и актуальные:  
 
 - wear shop app - небольшой веб-магазин на React. Вдохновлением послужил демо проект команды Polymer.  
-	- demo:        [https://stark-cliffs-10206.herokuapp.com/](https://stark-cliffs-10206.herokuapp.com/) (caution - cold server startup takes up to 30 sec)
+	- demo:        [https://stark-cliffs-10206.herokuapp.com/](https://stark-cliffs-10206.herokuapp.com/) (caution - cold server startup takes up to 30 sec[yay, free hosting])
 	- source code: [https://github.com/Gizzz/wear-shop-app](https://github.com/Gizzz/wear-shop-app)  
 	
 - приложение TodoMVC на Angular 2 - как способ узнать фреймворк в деле. e2e тесты прилагаются.
@@ -34,16 +34,16 @@
 	- ES5
 	- ES2017
 - frontend: 
-    - frameworks: react, redux, react-router (до этого был angular 1.x)  
-    - build tools: базовый webpack, до этого были gulp и grunt      
+    - frameworks: react, redux, react-router (previously used: angular 1.x)  
+    - build tools: webpack (previously used: gulp, grunt)
     - DOM manipulation: natively via DOM API, jquery  
     - html5/css3
     - responsive web design
     - preprocessors: less
 - backend:
     - node.js
-    - express.js (koa.js в планах)
-    - mongo.db via node-driver (mongoose в планах)	
+    - express.js (koa.js in plans)
+    - mongo.db via node-driver (mongoose in plans)	
 - HTTP basics, REST API
 - version control: Git
 
@@ -57,7 +57,6 @@
 - английский на уровне upper intermediate
 
 ### Что планирую изучать в ближайшее время
-- webpack более основательно
 - тестирование в React: unit testing, e2e
 - functional programming in js, flow type checker
 - RxJs, Observables
