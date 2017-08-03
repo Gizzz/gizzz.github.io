@@ -34,12 +34,12 @@
 	- ES5
 	- ES2017
 - frontend: 
-    - frameworks: react, redux, react-router (previously used: angular 1.x)  
-    - build tools: webpack (previously used: gulp, grunt)
+    - frameworks/libs: react, redux, react-router (previously used: angular 1.x)  
+    - tools: webpack, npm scripts, babel, eslint  
     - DOM manipulation: natively via DOM API, jquery  
+    - css processors: postcss, less  
     - html5/css3
-    - responsive web design
-    - css processors: postcss, less
+    - responsive web design    
 - backend:
     - node.js
     - express.js
