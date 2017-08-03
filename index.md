@@ -39,7 +39,7 @@
     - DOM manipulation: natively via DOM API, jquery  
     - html5/css3
     - responsive web design
-    - css preprocessors: less
+    - css processors: postcss, less
 - backend:
     - node.js
     - express.js
