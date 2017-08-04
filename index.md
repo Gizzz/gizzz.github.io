@@ -12,6 +12,7 @@
 	- source code: [https://github.com/Gizzz/wear-shop-app](https://github.com/Gizzz/wear-shop-app)  
 	
 - приложение TodoMVC на Angular 2 - как способ узнать фреймворк в деле. e2e тесты прилагаются.
+	- e2e testing video: [https://www.youtube.com/watch?v=7l6XeUP3OGQ](https://www.youtube.com/watch?v=7l6XeUP3OGQ)
 	- demo:        [https://gizzz.github.io/ng2-todo_app/](https://gizzz.github.io/ng2-todo_app/)  
 	- source code: [https://github.com/Gizzz/ng2-todo_app](https://github.com/Gizzz/ng2-todo_app)  
 
