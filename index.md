@@ -45,13 +45,13 @@
     - node.js
     - express.js
     - mongoDB
+- testing:  
+	- unit-tests: jest, enzyme  
+	- end-to-end tests: jest, webdriver  
 - HTTP basics, REST API
 - version control: Git
 
 Другие навыки:
-- тестирование
-	- юнит-тесты
-	- функциональные тесты (e2e) с помощью WebDriver
 - традиционные ценности:
 	- алгоритмы и структуры данных
 	- паттерны проектирования
@@ -59,9 +59,8 @@
 - английский на уровне upper intermediate
 
 ### Что планирую изучать в ближайшее время
-- тестирование в React: unit testing, e2e
 - functional programming in js, flow type checker
-- RxJs, Observables
+- RxJs
 - http более основательно, присматриваюсь к GraphQL
 
 ### Контакты
