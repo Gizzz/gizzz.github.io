@@ -1,4 +1,4 @@
-eng | [https://gizzz.github.io/](rus)
+eng | [rus](https://gizzz.github.io/)
 
 ## Булат Хусаинов ( Javascript Developer )
 Занимаюсь фронтендом с января 2015 года.  
