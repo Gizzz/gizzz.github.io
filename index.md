@@ -47,7 +47,7 @@
     - mongoDB
 - testing:  
 	- unit-tests: jest, enzyme  
-	- end-to-end tests: jest, webdriver  
+	- end-to-end tests: webdriver  
 - HTTP basics, REST API
 - version control: Git
 
