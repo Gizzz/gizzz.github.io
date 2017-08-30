@@ -10,13 +10,11 @@
 - wear shop app - небольшой веб-магазин на React. Вдохновлением послужил демо проект команды Polymer.  
 	- demo:        [https://stark-cliffs-10206.herokuapp.com/](https://stark-cliffs-10206.herokuapp.com/) (caution - cold server startup takes about 15 sec)
 	- source code: [https://github.com/Gizzz/wear-shop-app](https://github.com/Gizzz/wear-shop-app)  
-	- e2e tests source code: [https://github.com/Gizzz/wear-shop-app/blob/master/e2e/app.spec.js](https://github.com/Gizzz/wear-shop-app/blob/master/e2e/app.spec.js)  
 	
 - приложение TodoMVC на Angular 2 - как способ узнать фреймворк в деле.  	
 	- demo:        [https://gizzz.github.io/ng2-todo_app/](https://gizzz.github.io/ng2-todo_app/)  
 	- source code: [https://github.com/Gizzz/ng2-todo_app](https://github.com/Gizzz/ng2-todo_app)  
 	- e2e testing video: [https://www.youtube.com/watch?v=7l6XeUP3OGQ](https://www.youtube.com/watch?v=7l6XeUP3OGQ)  
-	- e2e tests source code:  [https://github.com/Gizzz/ng2-todo_app/blob/master/e2e/app.e2e-spec.ts](https://github.com/Gizzz/ng2-todo_app/blob/master/e2e/app.e2e-spec.ts)  
 
 Примеры отзывчивого дизайна (только верстка):  
 
