@@ -2,7 +2,6 @@
 Занимаюсь фронтендом с января 2015 года.  
 До этого занимался фулл-стек разработкой на платформе .net (c#, asp.net mvc).  
 Вдохновляюсь веб технологиями, их стремительным развитием. Очень нравится состояние веба и Javascript на сегодня.  
-Помимо веба увлекаюсь симрейсингом и неким стрит воркаутом (ребрендинг трениовок на турнике и брусьях).  
 
 ### Проекты
 Список проектов по хронологии, сверху самые свежие и актуальные:  
@@ -32,13 +31,13 @@
 ### Навыки и умения
 Стек технологий:
 - Javascript  
-	- ES5
-	- ES2017
+    - ES5
+    - ES2017
 - frontend: 
     - frameworks/libs: react, redux, react-router (previously used: angular 1.x)  
     - tools: webpack, npm scripts, babel, eslint  
-    - DOM manipulation: natively via DOM API, jquery  
-    - css processors: postcss, less  
+    - DOM manipulation: natively via DOM API, or via jQuery API  
+    - css processors: sass/less, postcss(autoprefixer)
     - html5/css3
     - responsive web design    
 - backend:
@@ -48,7 +47,7 @@
 - testing:  
 	- unit-tests: jest, enzyme  
 	- end-to-end tests: webdriver  
-- HTTP basics, REST API
+- HTTP, REST API
 - version control: Git
 
 Другие навыки:
@@ -58,10 +57,11 @@
 	- реляционные БД
 - английский на уровне upper intermediate
 
-### Что планирую изучать в ближайшее время
-- functional programming in js, flow type checker
-- RxJs
-- http более основательно, присматриваюсь к GraphQL
+Интересуюсь такими вещами как:
+- реактивное программирование (RxJs)
+- функциональное программирование
+- typescript
+- linux
 
 ### Контакты
 - почта:    [bulatkhusainov@yandex.ru](mailto:bulatkhusainov@yandex.ru)  
