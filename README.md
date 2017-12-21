@@ -1,3 +1,3 @@
 # gizzz.github.io
 
-### portfolio page repo
+### cv page repo
