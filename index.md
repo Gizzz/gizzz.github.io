@@ -7,6 +7,9 @@
 ### Проекты
 Список проектов по хронологии, сверху самые свежие и актуальные:  
 
+- autocomplete-demo - технодемка поиска с автодополнением (клиент для Google Places API). 
+	- demo:        [https://powerful-savannah-11659.herokuapp.com/](https://powerful-savannah-11659.herokuapp.com/) (caution - cold server startup takes about 15 sec)
+	- source code: [https://github.com/Gizzz/autocomplete-demo](https://github.com/Gizzz/autocomplete-demo)  
 - wear shop app - небольшой веб-магазин на React. Вдохновлением послужил демо проект команды Polymer.  
 	- demo:        [https://stark-cliffs-10206.herokuapp.com/](https://stark-cliffs-10206.herokuapp.com/) (caution - cold server startup takes about 15 sec)
 	- source code: [https://github.com/Gizzz/wear-shop-app](https://github.com/Gizzz/wear-shop-app)  
@@ -34,9 +37,8 @@
     - ES5
     - ES2017
 - frontend: 
-    - frameworks/libs: react, redux, react-router (previously used: angular 1.x)  
-    - tools: webpack, npm scripts, babel, eslint  
-    - DOM manipulation: natively via DOM API, or via jQuery API  
+    - frameworks/libs: react, redux, react-router (previously used: angular 1.x)
+    - tools: webpack, npm scripts, babel, eslint
     - css processors: sass/less, postcss(autoprefixer)
     - html5/css3
     - responsive web design    
@@ -52,7 +54,7 @@
 
 Другие навыки:
 - традиционные ценности:
-	- алгоритмы и структуры данных
+	- базовые алгоритмы и структуры данных
 	- паттерны проектирования
 	- реляционные БД
 - linux basics (bash)
