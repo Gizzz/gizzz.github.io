@@ -7,6 +7,9 @@
 ### Проекты
 Список проектов по хронологии, сверху самые свежие и актуальные:  
 
+- medium-clone - платформа для ведения блогов. Это проект над которым работаю сейчас, находится в стадии раннего прототипа.
+	- demo:        [https://fedium.herokuapp.com/](https://fedium.herokuapp.com/) (caution - cold server startup takes about 15 sec)
+	- source code: [https://github.com/Gizzz/medium-clone](https://github.com/Gizzz/medium-clone)  
 - autocomplete-demo - технодемка поиска с автодополнением (клиент для Google Places API). 
 	- demo:        [https://powerful-savannah-11659.herokuapp.com/](https://powerful-savannah-11659.herokuapp.com/) (caution - cold server startup takes about 15 sec)
 	- source code: [https://github.com/Gizzz/autocomplete-demo](https://github.com/Gizzz/autocomplete-demo)  
