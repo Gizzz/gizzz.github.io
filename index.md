@@ -13,7 +13,7 @@
 - autocomplete-demo - технодемка поиска с автодополнением (клиент для Google Places API). 
 	- demo:        [https://powerful-savannah-11659.herokuapp.com/](https://powerful-savannah-11659.herokuapp.com/) (caution - cold server startup takes about 15 sec)
 	- source code: [https://github.com/Gizzz/autocomplete-demo](https://github.com/Gizzz/autocomplete-demo)  
-- wear shop app - небольшой веб-магазин на React. Вдохновлением послужил демо проект команды Polymer.  
+- wear-shop-app - небольшой веб-магазин на React. Вдохновлением послужил демо проект команды Polymer.  
 	- demo:        [https://stark-cliffs-10206.herokuapp.com/](https://stark-cliffs-10206.herokuapp.com/) (caution - cold server startup takes about 15 sec)
 	- source code: [https://github.com/Gizzz/wear-shop-app](https://github.com/Gizzz/wear-shop-app)  
 	
