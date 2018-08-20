@@ -67,10 +67,13 @@
 - функциональное программирование
 - typescript
 - GraphQL
+- css-in-js
 
 Планирую изучить:
+- более удобные e2e тесты: cypress, puppeteer
+- внутреннее устройство js, изучить язык ближе к спецификации
 - один из языков компилируемых в js, с поддержкой парадигмы ФП и типизации (ReasonML / PureScript)
-- css-in-js
+
 
 ### Контакты
 - почта:    [bulatkhusainov@yandex.ru](mailto:bulatkhusainov@yandex.ru)  
