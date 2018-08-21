@@ -5,23 +5,25 @@
 Очень нравится состояние веба и Javascript на сегодня.  
 
 ### Проекты
-Список проектов по хронологии, сверху самые свежие и актуальные:  
+Список проектов по актуальности, сверху самые актуальные:  
 
 - medium-clone - платформа для ведения блогов. Это проект над которым работаю сейчас, находится в стадии раннего прототипа.
 	- demo:        [https://fedium.herokuapp.com/](https://fedium.herokuapp.com/) (caution - cold server startup takes about 15 sec)
 	- source code: [https://github.com/Gizzz/medium-clone](https://github.com/Gizzz/medium-clone)  
-- autocomplete-demo - технодемка поиска с автодополнением (клиент для Google Places API). 
-	- demo:        [https://powerful-savannah-11659.herokuapp.com/](https://powerful-savannah-11659.herokuapp.com/) (caution - cold server startup takes about 15 sec)
-	- source code: [https://github.com/Gizzz/autocomplete-demo](https://github.com/Gizzz/autocomplete-demo)  
+
 - wear-shop-app - небольшой веб-магазин на React. Вдохновлением послужил демо проект команды Polymer.  
 	- demo:        [https://stark-cliffs-10206.herokuapp.com/](https://stark-cliffs-10206.herokuapp.com/) (caution - cold server startup takes about 15 sec)
 	- source code: [https://github.com/Gizzz/wear-shop-app](https://github.com/Gizzz/wear-shop-app)  
-	
+
+- autocomplete-demo - технодемка поиска с автодополнением (клиент для Google Places API). 
+	- demo:        [https://powerful-savannah-11659.herokuapp.com/](https://powerful-savannah-11659.herokuapp.com/) (caution - cold server startup takes about 15 sec)
+	- source code: [https://github.com/Gizzz/autocomplete-demo](https://github.com/Gizzz/autocomplete-demo)  
+
 - приложение TodoMVC на Angular 2 - как способ узнать фреймворк в деле.  	
 	- demo:        [https://gizzz.github.io/ng2-todo_app/](https://gizzz.github.io/ng2-todo_app/)  
 	- source code: [https://github.com/Gizzz/ng2-todo_app](https://github.com/Gizzz/ng2-todo_app)  
 
-Примеры отзывчивого дизайна (только верстка):  
+Примеры responsive web design (только верстка):  
 
 - сайт для medical-x (responsive web design)
 	- demo:        [http://medical-x.com/](http://medical-x.com/)
