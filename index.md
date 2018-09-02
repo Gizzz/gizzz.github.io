@@ -52,8 +52,8 @@
     - express.js
     - mongoDB
 - testing:  
-	- unit-tests: jest, enzyme  
-	- end-to-end tests: webdriver  
+	- unit/integration: jest, enzyme  
+	- end-to-end: webdriver  
 - HTTP, REST API
 - version control: Git
 
