@@ -30,7 +30,7 @@
 
 - sedona (responsive web design, network performance optimization)  
 	- demo:        [http://gizzz.github.io/sedona/prod/](http://gizzz.github.io/sedona/prod/)  
-	- source code: [https://github.com/Gizzz/sedona](https://github.com/Gizzz/sedona)  
+	- source code: [https://github.com/Gizzz/sedona/tree/gh-pages](https://github.com/Gizzz/sedona/tree/gh-pages)  
 
 - timeline-portfolio (responsive web design, network performance optimization)  
 	- demo:        [http://gizzz.github.io/portfolio-timeline/](http://gizzz.github.io/portfolio-timeline/)  
