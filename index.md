@@ -70,8 +70,10 @@
 - typescript
 - GraphQL
 - css-in-js
+- material design
 
 Планирую изучить:
+- UI/UX foundations
 - более удобные e2e тесты: cypress, puppeteer
 - внутреннее устройство js, изучить язык ближе к спецификации
 - один из языков компилируемых в js, с поддержкой парадигмы ФП и типизации (ReasonML / PureScript)
