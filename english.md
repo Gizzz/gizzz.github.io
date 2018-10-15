@@ -1,7 +1,7 @@
 ## Bulat Husainov ( Javascript Developer: Frontend, React / Node.js )
 
-Developing web-applications based on React ecosystem. Using Node.js to make things easier.
-As a background, previously developed full-stack apps based on .NET platform (c#, asp.net mvc).
+Developing web-applications based on React ecosystem. Using Node.js to make things easier.  
+As a background, previously developed full-stack apps based on .NET platform (c#, asp.net mvc).  
 Inspired by web-technologies and their rapid evolution 🚀
 
 ### Projects
