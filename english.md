@@ -1,31 +1,31 @@
-eng | [rus](https://gizzz.github.io/)
+## Bulat Husainov ( Javascript Developer: Frontend, React / Node.js )
 
-## Булат Хусаинов ( Javascript Developer )
-Занимаюсь фронтендом с января 2015 года.  
-До этого занимался фулл-стек разработкой на платформе .net (c#, asp.net mvc).  
-Вдохновляюсь веб технологиями, их стремительным развитием. Очень нравится состояние веба и Javascript на сегодня.  
-Помимо веба увлекаюсь симрейсингом и неким стрит воркаутом (ребрендинг трениовок на турнике и брусьях).  
+Frontend software engineer with 3 years of experience of developing various web applications. Has deep understanding in building frontend web applications using componentized approach based on React. Has experience in developing pixel perfect markup using modern HTML/CSS/SASS/PostCSS/BEM approaches. Also has brief knowledge of the backend technologies such as Node.js, Express.js, HTTP, REST API.  Constantly learns new technologies, follows web standards and best practices. Has passion for devoloping user-friendly interfaces that is intuitive and fast. 
 
-### Проекты
-Список проектов по хронологии, сверху самые свежие и актуальные:  
+### Projects
 
-- wear shop app - небольшой веб-магазин на React. Вдохновлением послужил демо проект команды Polymer.  
+List of projects by relevance, most relevant at the top:  
+
+- medium-clone - blogging platform written on React. This is the project I currently working on. It is in 'early prototype' state, work in progress.
+	- demo:        [https://fedium.herokuapp.com/](https://fedium.herokuapp.com/) (caution - cold server startup takes about 15 sec)
+	- source code: [https://github.com/Gizzz/medium-clone](https://github.com/Gizzz/medium-clone)  	
+	
+- wear shop app - e-commerce app written on React. Inspired by Google Polymer's demo project.  
 	- demo:        [https://stark-cliffs-10206.herokuapp.com/](https://stark-cliffs-10206.herokuapp.com/) (caution - cold server startup takes about 15 sec)
 	- source code: [https://github.com/Gizzz/wear-shop-app](https://github.com/Gizzz/wear-shop-app)  
 	
-- приложение TodoMVC на Angular 2 - как способ узнать фреймворк в деле.  
-	- e2e testing video: [https://www.youtube.com/watch?v=7l6XeUP3OGQ](https://www.youtube.com/watch?v=7l6XeUP3OGQ)
-	- demo:        [https://gizzz.github.io/ng2-todo_app/](https://gizzz.github.io/ng2-todo_app/)  
-	- source code: [https://github.com/Gizzz/ng2-todo_app](https://github.com/Gizzz/ng2-todo_app)  
+- autocomplete-demo - minimalistic client for Google Places API
+	- demo:        [https://powerful-savannah-11659.herokuapp.com/](https://powerful-savannah-11659.herokuapp.com/) (caution - cold server startup takes about 15 sec)  
+	- source code: [https://github.com/Gizzz/autocomplete-demo](https://github.com/Gizzz/autocomplete-demo)  
 
-Примеры отзывчивого дизайна (только верстка):  
+Examples of responsive web design (markup only):  
 
-- сайт для medical-x (responsive web design)
+- website for medical-x (responsive web design)
 	- demo:        [http://medical-x.com/](http://medical-x.com/)
 
 - sedona (responsive web design, network performance optimization)  
 	- demo:        [http://gizzz.github.io/sedona/prod/](http://gizzz.github.io/sedona/prod/)  
-	- source code: [https://github.com/Gizzz/sedona](https://github.com/Gizzz/sedona)  
+	- source code: [https://github.com/Gizzz/sedona/tree/gh-pages](https://github.com/Gizzz/sedona/tree/gh-pages)  
 
 - timeline-portfolio (responsive web design, network performance optimization)  
 	- demo:        [http://gizzz.github.io/portfolio-timeline/](http://gizzz.github.io/portfolio-timeline/)  
