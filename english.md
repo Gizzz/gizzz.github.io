@@ -31,41 +31,42 @@ Examples of responsive web design (markup only):
 	- demo:        [http://gizzz.github.io/portfolio-timeline/](http://gizzz.github.io/portfolio-timeline/)  
 	- source code: [https://github.com/Gizzz/portfolio-timeline/tree/gh-pages](https://github.com/Gizzz/portfolio-timeline/tree/gh-pages)  
     
-### Навыки и умения
-Стек технологий:
-- Javascript  
+### Skills and Abilities 
+
+Technological stack:
+- Javascript
+	- ES2018
 	- ES5
-	- ES2017
-- frontend: 
-    - frameworks/libs: react, redux, react-router (previously used: angular 1.x)  
-    - tools: webpack, npm scripts, babel, eslint  
-    - DOM manipulation: natively via DOM API, jquery  
-    - css processors: postcss, less  
-    - html5/css3
-    - responsive web design    
+- frontend:
+	- frameworks/libs: react, redux, react-router
+	- tools: webpack, npm scripts, babel, eslint
+	- css processors: sass, postcss(autoprefixer)
+	- bem, css-modules
+	- html5/css3
+	- responsive web design, mobile-first
 - backend:
-    - node.js
-    - express.js
-    - mongoDB
-- HTTP basics, REST API
+	- node.js
+	- express.js
+	- mongoDB
+- testing:
+	- unit/integration: jest, enzyme
+	- end-to-end: webdriver
+- HTTP, REST API
 - version control: Git
 
-Другие навыки:
-- тестирование
-	- юнит-тесты
-	- функциональные тесты (e2e) с помощью WebDriver
-- традиционные ценности:
-	- алгоритмы и структуры данных
-	- паттерны проектирования
-	- реляционные БД
-- английский на уровне upper intermediate
+Other skills:
+- common algorithms and data structures
+- design patterns
+- relational databases
+- linux basics (bash)
+- english level: upper intermediate
 
-### Что планирую изучать в ближайшее время
-- тестирование в React: unit testing, e2e
-- functional programming in js, flow type checker
-- RxJs, Observables
-- http более основательно, присматриваюсь к GraphQL
+### Interested in such things as:
+- functional programming
+- typescript
+- GraphQL
+- css-in-js
+- material design
 
-### Контакты
-- почта:    [bulatkhusainov@yandex.ru](mailto:bulatkhusainov@yandex.ru)  
-- мой круг: [husainovbulat](https://moikrug.ru/husainovbulat)  
+### Contacts
+- email:    [bulatkhusainov@yandex.ru](mailto:bulatkhusainov@yandex.ru)  
