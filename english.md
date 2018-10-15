@@ -1,6 +1,8 @@
 ## Bulat Husainov ( Javascript Developer: Frontend, React / Node.js )
 
-Frontend software engineer with 3 years of experience of developing various web applications. Has deep understanding in building frontend web applications using componentized approach based on React. Has experience in developing pixel perfect markup using modern HTML/CSS/SASS/PostCSS/BEM approaches. Also has brief knowledge of the backend technologies such as Node.js, Express.js, HTTP, REST API.  Constantly learns new technologies, follows web standards and best practices. Has passion for devoloping user-friendly interfaces that is intuitive and fast. 
+Developing web-applications based on React ecosystem. Using Node.js to make things easier.
+As a background, previously developed full-stack apps based on .NET platform (c#, asp.net mvc).
+Inspired by web-technologies and their rapid evolution 🚀
 
 ### Projects
 
