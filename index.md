@@ -19,10 +19,6 @@
 	- demo:        [https://powerful-savannah-11659.herokuapp.com/](https://powerful-savannah-11659.herokuapp.com/) (caution - cold server startup takes about 15 sec)
 	- source code: [https://github.com/Gizzz/autocomplete-demo](https://github.com/Gizzz/autocomplete-demo)  
 
-- приложение TodoMVC на Angular 2 - как способ узнать фреймворк в деле.  	
-	- demo:        [https://gizzz.github.io/ng2-todo_app/](https://gizzz.github.io/ng2-todo_app/)  
-	- source code: [https://github.com/Gizzz/ng2-todo_app](https://github.com/Gizzz/ng2-todo_app)  
-
 Примеры responsive web design (только верстка):  
 
 - сайт для medical-x (responsive web design)
@@ -42,7 +38,7 @@
 	- ES2018
 	- ES5    
 - frontend: 
-    - frameworks/libs: react, redux, react-router (previously used: angular 1.x)
+    - frameworks/libs: react, redux, react-router
     - tools: webpack, npm scripts, babel, eslint
     - css processors: sass/less, postcss(autoprefixer)
     - html5/css3
